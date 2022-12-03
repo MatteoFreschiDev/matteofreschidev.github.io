@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Articoli recenti");window.external.msSiteModeAddJumpListItem("Ciao mondo!","https://fenixclientmc.wordpress.com/2022/10/01/hello-world/","https://fenixclientmc.files.wordpress.com/2022/12/phoenix-logo-concept_173356-106.webp?w=16");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
